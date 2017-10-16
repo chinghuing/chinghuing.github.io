@@ -95,16 +95,15 @@ section {
 	font-size: 90%;
 	box-shadow: 1px 1px;
     text-align: center;
-    line-height: 1em;
+    padding: 0px;
     background-color: white;
     border: 2px solid #A8A8BF; 
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     cursor: pointer;
     margin-top: 8px;
-   	border-radius: 30px;
-	width: 60px;
-	height: 60px;
+   	border-radius: 15px;
+	height: 40px;
 
 }
 
