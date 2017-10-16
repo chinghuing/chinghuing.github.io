@@ -92,10 +92,10 @@ section {
 	width: 50%;
 	font-family: 'Roboto Condensed', sans-serif;
 	font-style: normal;
+	font-size: 90%;
 	box-shadow: 1px 1px;
     text-align: center;
     background-color: white;
-    color: black;
     border: 2px solid #A8A8BF; 
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
@@ -111,8 +111,4 @@ section {
     background-color: #A8A8BF;
     color: black;
     border: 2px solid #A8A8BF;
-}
-
-#contactform #submit #value {
-	
 }
